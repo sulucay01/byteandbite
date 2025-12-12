@@ -1,0 +1,19 @@
+# --- API ---
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.4
+
+# --- Vector DB ---
+qdrant-client==1.7.3
+
+# --- Embeddings ---
+sentence-transformers==2.6.1
+transformers==4.39.3
+
+# --- Torch (CPU) ---
+torch==2.2.1
+
+# --- Utils ---
+numpy==1.26.4
+requests==2.31.0
+pandas==2.2.1
